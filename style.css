@@ -1,0 +1,20 @@
+h1
+{color:blue;
+  text-align:center; 
+}
+.imageflottante
+{float: right;
+}
+.dessous
+{
+    clear:both
+}
+h2
+{color:blue;
+}
+body
+{background-color: rgb(202, 188, 174);
+}
+h2
+{border: 2px black groove;
+}
